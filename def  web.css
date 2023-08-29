@@ -1,0 +1,42 @@
+.def {width: 60%;
+    height: 50px;
+    padding: 50px;
+    border-radius: 7% ;
+    font-style: oblique;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: brown;
+     
+    }
+ .p{
+    font-size: 25px;
+    font-style: unset;
+    font-variant: small-caps;
+    color: black;
+    padding-top:10px;
+  
+
+ }   
+ body{
+    background-image:url('https://stepwise.pl/wp-content/uploads/2020/10/What-is-technical-debt-www.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+filter: contrast(55);
+}
+.vedioo{position: relative;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 100px 0;
+padding-top: 5px;
+
+;}
+
+   
+
+
+   
+     
+   }
+  

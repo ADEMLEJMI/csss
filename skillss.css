@@ -1,0 +1,17 @@
+body{ background-image:url('./Technical-Skills_How-to-Them-Master-in-2022.jpg.optimal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.types { color:hsl(350, 21%, 95%);
+padding-top: 00px;
+margin: 15px;
+font-size: 40px;
+font-style: oblique;
+
+}
+.ved{position: relative;
+display: flex;
+justify-content: center;}
+
